@@ -1,0 +1,35 @@
+{
+  "name": "bipio-docs",
+  "version": "0.1.9",
+  "description": "Bip.io documentation",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bipio-server/bipio-docs"
+  },
+  "readme": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jesse Thomson",
+    "email": "jesse@wot.io"
+  },
+  "main": "build.js",
+  "files": [
+    "build.js",
+    "layouts",
+    "plugins",
+    "src"
+  ],
+  "dependencies": {
+    "metalsmith": "~1.7.0",
+    "metalsmith-markdown": "~0.2.1",
+    "metalsmith-layouts": "~1.2.1",
+    "metalsmith-in-place": "~1.2.1",
+    "handlebars": "~3.0.3"
+  },
+  "engines": {
+    "node": "0.12.2"
+  }
+}
