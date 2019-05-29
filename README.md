@@ -1,3 +1,4 @@
+# **NOTICE:** This repository has been **DEPRECATED**. Do not use.
 ## bip.io Documentation
 
 Documentation repository for bip.io.
