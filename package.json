@@ -27,7 +27,7 @@
     "metalsmith-markdown": "~0.2.1",
     "metalsmith-layouts": "~1.2.1",
     "metalsmith-in-place": "~1.2.1",
-    "handlebars": "~3.0.3"
+    "handlebars": "~4.5.3"
   },
   "engines": {
     "node": "0.12.2"
